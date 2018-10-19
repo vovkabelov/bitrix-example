@@ -1,0 +1,10 @@
+.buttons-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.title {
+	font-size: 19px;
+	text-align: center;
+}

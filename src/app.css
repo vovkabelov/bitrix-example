@@ -1,0 +1,20 @@
+body {
+	background: #FAFAFA;
+	margin: 0;
+	font-family: 'Bitter', serif;
+}
+
+.root {
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	transform: translateY(-20vh);
+}
+
+.example {
+	padding: 40px;
+	border: 1px solid rgba(0, 0, 0, .4);
+	border-radius: 2px;
+}

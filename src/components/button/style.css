@@ -1,0 +1,17 @@
+.button {
+	background: #ffffff;
+	border: 1px solid #c6cdd3;
+	border-radius: 100px;
+	min-width: 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	line-height: 26px;
+	cursor: pointer;
+}
+
+.button:active,
+.button:focus {
+	outline: none;
+}
